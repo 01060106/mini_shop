@@ -4,7 +4,7 @@ body{
 }
 
 .container{
-  background-color: white;
+  background-color: rgb(5, 3, 4);
 }
 
 #shop_head{
@@ -16,9 +16,9 @@ body{
 }
 
 #shop_foot{
- background-color: rgb(51, 61, 101);
+ background-color: rgb(102, 43, 33);
  color: #fff;
- padding: 30px;
- line-height: 1.8;
+ padding: 10px;
+ line-height: 0.8;
  margin: 15px 0px;
 }
